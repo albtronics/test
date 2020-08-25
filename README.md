@@ -1,4 +1,4 @@
-# _Basic Git CMDs_
+# Basic Git CMDs
 
 - **git init**
 - **git add .**
