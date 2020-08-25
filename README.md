@@ -6,8 +6,8 @@
 
 
 
-- _If the above CMD didn't work, try force method_
-
+- _If the above CMD didn't work, try force method, for the very 1st time._
 - **git push --force https://github.com/albtronics/test.git **
 
-- ****
+
+
