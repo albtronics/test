@@ -7,7 +7,7 @@
 
 
 - _If the above CMD didn't work, try force method, for the very 1st time._
-- **git push --force https://github.com/albtronics/test.git **
+- **git push --force https://github.com/albtronics/test.git**
 
 
 
