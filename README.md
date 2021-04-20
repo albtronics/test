@@ -5,6 +5,8 @@
 - **git commit -m "Message"**
 - **git remote add origin https://github.com/albtronics/test.git**
 - **git push -u origin master**
+- **or**
+- **git push origin main  (For main branch)**
 
 
 
